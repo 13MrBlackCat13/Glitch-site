@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>glitch-site.pp.ua</loc>
+	<lastmod>2021-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/лол.png</image:loc>
+	<image:title>лол</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/ezgif-7-0a368f1421f1.png</image:loc>
+	<image:title>ezgif%207-0a368f1421f1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/placeholder-user.png</image:loc>
+	<image:title>placeholder%20user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>glitch-site.pp.ua/download.html</loc>
+	<lastmod>2021-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>glitch-site.pp.ua/help.html</loc>
+	<lastmod>2021-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>glitch-site.pp.ua/news.html</loc>
+	<lastmod>2021-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>glitch-site.pp.ua/covid-19.html</loc>
+	<lastmod>2021-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>glitch-site.pp.ua/feedback.html</loc>
+	<lastmod>2021-02-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/recapture-placeholder.png</image:loc>
+	<image:title>recapture%20placeholder</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>glitch-site.pp.ua/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
